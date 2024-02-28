@@ -211,6 +211,6 @@ var obj=[
   for (var i=0;i<obj.length;i++){
     sum=sum+obj[i].price;
   }
-  console.log(sum);
+  console.log(sum+10);
 
 
